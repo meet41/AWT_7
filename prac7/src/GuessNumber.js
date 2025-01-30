@@ -1,4 +1,3 @@
-// src/GuessTheNumber.js
 import React, { useState } from 'react';
 import './GuessNumber.css';
 
